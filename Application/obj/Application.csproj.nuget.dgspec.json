@@ -31,8 +31,8 @@
               "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj"
+              "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -46,6 +46,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -121,14 +131,14 @@
         }
       }
     },
-    "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\darwi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
