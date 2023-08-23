@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "snzsji5vVS/uGCRC9mB5ep7j4wo2VTAelLP2m9fPgD3pl0qgxTe67EcG39rCP0ssmRspRdwjHLOKaK2iU95/nw==",
+  "dgSpecHash": "cZPhHdn0OWNzzDy44tU2pryJM8aI7aJGagGNg0l/VyiODdOB8l7SiLK4Z0UISGz2xjDaoWJlxTDy7TQY3rXLpw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darwi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\darwi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\darwi\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\darwi\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\darwi\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\darwi\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\darwi\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\darwi\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",

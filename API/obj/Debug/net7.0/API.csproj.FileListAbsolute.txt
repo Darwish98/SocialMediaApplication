@@ -78,3 +78,6 @@ C:\Users\darwi\Documents\GitHub\Reactivities\API\bin\Debug\net7.0\MediatR.Contra
 C:\Users\darwi\Documents\GitHub\Reactivities\API\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\darwi\Documents\GitHub\Reactivities\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\darwi\Documents\GitHub\Reactivities\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\darwi\Documents\GitHub\Reactivities\API\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\darwi\Documents\GitHub\Reactivities\API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\darwi\Documents\GitHub\Reactivities\API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll

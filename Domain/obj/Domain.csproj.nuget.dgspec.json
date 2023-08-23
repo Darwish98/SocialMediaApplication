@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\darwi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
