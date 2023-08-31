@@ -1160,11 +1160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectPath": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\darwi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\obj\\",
+      "outputPath": "c:\\Users\\darwi\\Documents\\GitHub\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darwi\\AppData\\Roaming\\NuGet\\NuGet.Config",
