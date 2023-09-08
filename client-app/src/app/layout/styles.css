@@ -35,6 +35,10 @@ body {
   color: white;
 }
 
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
 .masthead {
   display: flex;
   align-items: center;
@@ -61,4 +65,3 @@ body {
   font-size: 1.7em;
   font-weight: normal;
 }
-
